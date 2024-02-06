@@ -1,2 +1,2 @@
 # flash-light
-Simple android flashlight app using system services
+-Simple android flashlight app using system services
